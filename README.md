@@ -24,14 +24,14 @@
 <h2 align="center">📊 Mi progreso en GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stivlive&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivlive&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stivlive&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stivlive&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Lenguajes" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stiv_live&theme=radical&hide_border=true" width="60%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stivlive&theme=radical&hide_border=true" width="60%" alt="Streak" />
 </div>
 
 <h2 align="center">🚀 Proyectos (próximamente)</h2>
@@ -43,15 +43,15 @@
 <h2 align="center">📫 Conéctate conmigo</h2>
 
 <div align="center">
-  X (https://x.com/stiv_liive)
-  Instagram (https://www.instagram/stivmzl) <!-- cambia si tienes perfil real -->
-  Email (stivendevcontact@gmail.com)
+  X https://x.com/stiv_liive
+  Instagram https://www.instagram/stivmzl <!-- cambia si tienes perfil real -->
+  Email stivendevcontact@gmail.com
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=stiv_liive&label=Visitas&color=00FFAA&style=flat-square" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Stivlive&label=Visitas&color=00FFAA&style=flat-square" alt="Visitas" />
 </div>
 
 ---
