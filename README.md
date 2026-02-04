@@ -43,8 +43,8 @@
 <h2 align="center">📫 Conéctate conmigo</h2>
 
 <div align="center">
-  X https://x.com/stiv_liive
-  Instagram https://www.instagram/stivmzl <!-- cambia si tienes perfil real -->
+  X x.com/stiv_liive
+  Instagram instagram.com/stivmzl <!-- cambia si tienes perfil real -->
   Email stivendevcontact@gmail.com
 </div>
 
