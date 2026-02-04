@@ -24,8 +24,8 @@
 <h2 align="center">📊 Mi progreso en GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stiv_live&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiv_iive&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Lenguajes" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stivlive&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stivlive&layout=compact&theme=radical&hide_border=true&langs_count=8" width="40%" alt="Lenguajes" />
 </div>
 
 <br>
@@ -43,9 +43,9 @@
 <h2 align="center">📫 Conéctate conmigo</h2>
 
 <div align="center">
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/stiv_liive)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stiv-liive) <!-- cambia si tienes perfil real -->
-  [![Email](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/960px-Gmail_icon_%282020%29.svg.png?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stivendevcontact@gmail.com)
+  X (https://x.com/stiv_liive)
+  Instagram (https://www.instagram/stivmzl) <!-- cambia si tienes perfil real -->
+  Email (stivendevcontact@gmail.com)
 </div>
 
 <br>
