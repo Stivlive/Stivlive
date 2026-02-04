@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Hola!+Soy+Stiven+Futuro+Desarrollador+de+Software+Empezando+mi+carrera+en+SENA+🚀+Aprendiendo+y+creciendo+cada+día" alt="Typing SVG" />
-<br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&deleteSpeed=0&lines=Hola!+Soy+Stiven;Futuro+Desarrollador+de+Software;Empezando+mi+carrera+en+el+SENA;🚀+Aprendiendo+y+creciendo+cada+díaa" alt="Typing SVG" />
+</div>
 
 <h2 align="center">👋 Sobre mí</h2>
 
